@@ -1,6 +1,6 @@
 module cuelang.org/go
 
-go 1.20
+go 1.23.0
 
 require (
 	cuelabs.dev/go/oci/ociregistry v0.0.0-20231217163254-6feb86eb6e06
@@ -21,7 +21,7 @@ require (
 	github.com/tetratelabs/wazero v1.6.0
 	golang.org/x/mod v0.14.0
 	golang.org/x/net v0.19.0
-	golang.org/x/oauth2 v0.15.0
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.16.1
 	gopkg.in/yaml.v3 v3.0.1
