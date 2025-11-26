@@ -1,6 +1,6 @@
 module test/e2e
 
-go 1.20
+go 1.23.0
 
 require (
 	cuelang.org/go v0.0.0-00010101000000-000000000000
@@ -27,7 +27,7 @@ require (
 	github.com/tetratelabs/wazero v1.6.0 // indirect
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/net v0.19.0 // indirect
-	golang.org/x/oauth2 v0.15.0 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.16.1 // indirect
